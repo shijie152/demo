@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/demo/design_pattren/SimpleFactory/ConcreteProductA.h
+Produtc.h
+D:/demo/design_pattren/SimpleFactory/Produtc.h
+
+D:/demo/design_pattren/SimpleFactory/ConcreteProductB.h
+Produtc.h
+D:/demo/design_pattren/SimpleFactory/Produtc.h
+
+D:/demo/design_pattren/SimpleFactory/Produtc.h
+
+D:/demo/design_pattren/SimpleFactory/SimpleFactory.cpp
+SimpleFactory.h
+D:/demo/design_pattren/SimpleFactory/SimpleFactory.h
+ConcreteProductA.h
+D:/demo/design_pattren/SimpleFactory/ConcreteProductA.h
+ConcreteProductB.h
+D:/demo/design_pattren/SimpleFactory/ConcreteProductB.h
+
+D:/demo/design_pattren/SimpleFactory/SimpleFactory.h
+Produtc.h
+D:/demo/design_pattren/SimpleFactory/Produtc.h
+string
+-
+
+D:/demo/design_pattren/SimpleFactory/main.cpp
+iostream
+-
+Produtc.h
+D:/demo/design_pattren/SimpleFactory/Produtc.h
+SimpleFactory.h
+D:/demo/design_pattren/SimpleFactory/SimpleFactory.h
+
