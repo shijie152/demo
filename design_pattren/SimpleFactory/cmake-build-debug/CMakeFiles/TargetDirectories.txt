@@ -1,3 +1,0 @@
-D:/demo/design_pattren/SimpleFactory/cmake-build-debug/CMakeFiles/SimpleFactory.dir
-D:/demo/design_pattren/SimpleFactory/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/demo/design_pattren/SimpleFactory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
