@@ -16,7 +16,7 @@ class ConcreteProductA : public Product
 public:
     ConcreteProductA() {}
     ~ConcreteProductA() {}
-    void use()
+    virtual void use()
     {
         cout << "product A" << endl;
     }
@@ -27,7 +27,7 @@ class ConcreteProductB : public Product
 public:
     ConcreteProductB() {}
     ~ConcreteProductB() {}
-    void use()
+    virtual void use()
     {
         cout << "product B" << endl;
     }
